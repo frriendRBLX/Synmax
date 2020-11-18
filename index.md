@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## About Synmax
 
-You can use the [editor on GitHub](https://github.com/frriendRBLX/Synmax/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Synmax is a powerful command line with modularity. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Methods
 
-### Markdown
+Current Built in methods and their current purpose
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<> is required  | [] is optional
 
+
+
+
+### new()
+Creates a new instance with given parameters.
+
+Usage:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+> new <type> [name] [parent]
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### select()
+Selects an object based on given parameters.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frriendRBLX/Synmax/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Usage:
+```markdown
+> new <all|byname|bytype|updir|next> [args]
+```
 
-### Support or Contact
+### set()
+Sets property of given object
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Usage:
+```markdown
+> set <property> <newvalue>
+  
+**Requires Selection**
+```
+
+
+
+
