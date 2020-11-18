@@ -1,4 +1,4 @@
-## About Synmax
+## Synmax Documentation
 
 Synmax is a powerful command line with modularity. 
 
