@@ -52,7 +52,7 @@ local connections = {}
  --		  |	      __/ |                                      |
  --		  |	     |___/                                       |
  --		  |													 |
- --		  |	   Developed by frriend | 2020  				 |
+ --		  |	   Developed by frriend | 2020-2021  			 |
  --		  |__________________________________________________/
 
 --[[ VARIABLES ]]--
