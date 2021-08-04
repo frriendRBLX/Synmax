@@ -1,6 +1,7 @@
 # Synmax
 
-A dynamic command execution plugin that grows with you.
+A dynamic, fully modular command plugin for Roblox Studio.
+
 ## Installation
 
 Visit the [Releases](https://github.com/frriendRBLX/Synmax/releases) page to download the latest version of synmax.
