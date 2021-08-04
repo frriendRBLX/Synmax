@@ -103,7 +103,7 @@ function mod.cleanup()
 end
 
 --[[
-	Okay, Now try it!
+	Okay, Now try it yourself! 
 	
 	Drop this mod into game->ServerStorage->SYNMAX_PLUGINS and try typing "template"
 	
