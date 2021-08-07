@@ -52,7 +52,7 @@ local connections = {}
  --		  |	      __/ |                                      |
  --		  |	     |___/                                       |
  --		  |													 |
- --		  |	   Developed by frriend | 2020-2021  			 |
+ --		  |	   Developed by frriend | 2020		  			 |
  --		  |__________________________________________________/
 
 --[[ VARIABLES ]]--
@@ -399,6 +399,7 @@ local infoDebounce = false
 local methodRunning = false
 
 function changeInfo()
+	
 	if info.Text == infoText or infoDebounce then return end
 	infoDebounce = true
 	
