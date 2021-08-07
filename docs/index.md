@@ -1,9 +1,9 @@
-<div align="center"><img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/f/f/2/ff2d728091d013d3768b54e642a0f52677749bfd.png"></img></div>
+<div align="center"><img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/f/f/2/ff2d728091d013d3768b54e642a0f52677749bfd.png"></div>
 
 # Synmax
 A Powerful, Light and Quick Modular Command Line for Studio.
 
-<div align="center"><img src="https://s6.gifyu.com/images/Module-method.gif"></img></div>
+<div align="center"><img src="https://s6.gifyu.com/images/Module-method.gif"></div>
 
 ___
 
