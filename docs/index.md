@@ -76,6 +76,7 @@ Our input should be `module load selected`, causing us to reach a method. This m
 <kbd>Input:</kbd>
 ```
 module load bypath <path>
+
 ``` 
 <kbd>Contextual Info (displayed below):</kbd>
 ```
